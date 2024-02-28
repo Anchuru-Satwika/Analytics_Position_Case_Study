@@ -69,7 +69,7 @@ Part C
 - Can you suggest any way to make the loyalty point formula more robust?
 
 
-## [Link](https://github.com/Anchuru-Satwika/Analytics_Position_Case_Study/files/14438208/Analytics.Position.Case.Study.xlsx)
+## [Link](https://drive.google.com/file/d/1NjIfOJxarFbw9JxREmUJ8VTifSRVg2wV/view?usp=drive_link)
 
 
 
